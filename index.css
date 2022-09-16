@@ -1,0 +1,58 @@
+body {
+    background-image: url("Quilt.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, Ubuntu, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+#container {
+    background: lightyellow;
+    border: 2px solid blue;
+    margin: 25px auto;
+    border-radius: 10px;
+    max-width: 65%;
+}
+
+h1 {
+    font-family:
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: lightyellow;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 125px;
+    margin-right: 125px;
+    background: lightyellow;
+}
+h3 {
+    font-weight: bold;
+    font-size: 25px;
+    margin: 20px;
+    padding: 4px 8px;
+}
+button {
+    border: 2px solid blue;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+}
+
+#increment-btn {
+    background: purple;
+}
+
+#save-btn {
+    background: darkturquoise;
+
+}
